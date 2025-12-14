@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0f472a;
+  --foreground: #fef9f3;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-delius);
+  --font-header: var(--font-ballet);
+}
+
+body {
+  background: linear-gradient(135deg, #0f472a 0%, #1a5a3a 100%);
+  color: var(--foreground);
+  font-family: var(--font-delius), Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-ballet), cursive;
+}

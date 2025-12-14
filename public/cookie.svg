@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Cookie base -->
+  <circle cx="256" cy="256" r="220" fill="#D4A574" stroke="#B8935F" stroke-width="8"/>
+  
+  <!-- Cookie texture -->
+  <circle cx="256" cy="256" r="215" fill="#D4A574" opacity="0.3"/>
+  
+  <!-- Chocolate chips -->
+  <circle cx="180" cy="200" r="25" fill="#5C3317"/>
+  <circle cx="320" cy="180" r="22" fill="#5C3317"/>
+  <circle cx="260" cy="240" r="28" fill="#5C3317"/>
+  <circle cx="200" cy="300" r="24" fill="#5C3317"/>
+  <circle cx="340" cy="280" r="26" fill="#5C3317"/>
+  <circle cx="280" cy="340" r="23" fill="#5C3317"/>
+  <circle cx="160" cy="280" r="20" fill="#5C3317"/>
+  <circle cx="360" cy="220" r="21" fill="#5C3317"/>
+  
+  <!-- Highlight -->
+  <ellipse cx="200" cy="180" rx="40" ry="30" fill="#F4D7A0" opacity="0.4"/>
+  
+  <!-- Red and green sprinkles for Christmas -->
+  <rect x="220" y="160" width="8" height="20" fill="#DC143C" rx="3" transform="rotate(25 224 170)"/>
+  <rect x="300" y="250" width="8" height="20" fill="#228B22" rx="3" transform="rotate(-15 304 260)"/>
+  <rect x="240" y="310" width="8" height="20" fill="#DC143C" rx="3" transform="rotate(45 244 320)"/>
+  <rect x="350" y="320" width="8" height="20" fill="#228B22" rx="3" transform="rotate(-30 354 330)"/>
+  <rect x="160" y="240" width="8" height="20" fill="#DC143C" rx="3" transform="rotate(60 164 250)"/>
+  <rect x="330" cy="240" width="8" height="20" fill="#228B22" rx="3" transform="rotate(10 334 250)"/>
+</svg>
